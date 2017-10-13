@@ -12,3 +12,4 @@ while True:
         power -= 1
         pin0.write_analog(power)
         sleep(10)
+
